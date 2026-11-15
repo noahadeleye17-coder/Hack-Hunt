@@ -1,0 +1,28 @@
+{
+  "online_only": true,
+  "min_days_left": 5,
+  "urgent_days": 3,
+  "top_n": 10,
+  "country": "Nigeria",
+  "exclude_phrases": [
+    "us residents only",
+    "u.s. residents only",
+    "united states residents only",
+    "residents of the united states only",
+    "not open to students",
+    "students are not eligible",
+    "high school students only",
+    "employees only"
+  ],
+  "interests": {
+    "AI/agents": ["machine learning/ai", "ai", "llm", "llms", "agent", "agents", "agentic", "genai", "generative ai"],
+    "Backend": ["backend", "back-end", "api", "apis", "databases", "cloud", "serverless"],
+    "Python/Django": ["python", "django"],
+    "Go": ["golang", "go lang"],
+    "Fintech": ["fintech", "payments", "banking", "finance"],
+    "Africa/social impact": ["africa", "african", "nigeria", "social good", "social impact", "sdg", "sdgs"],
+    "Dev tools": ["devops", "developer tools", "dev tools", "devtools", "open source", "cli"]
+  },
+  "request_delay_seconds": 1.0,
+  "state_path": "state/seen.json"
+}
