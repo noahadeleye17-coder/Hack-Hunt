@@ -1,1 +1,1187 @@
-{}
+{
+  "devpost:26475": {
+    "deadline": "2026-11-20T15:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-20",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 42.8,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Fintech"
+      ],
+      "prize": [
+        11.8,
+        "$900 prize"
+      ],
+      "registrations": [
+        3.0,
+        "276 registered"
+      ],
+      "time": [
+        8.0,
+        "5 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/"
+  },
+  "devpost:30456": {
+    "deadline": "2026-11-21T02:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-21",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 33.0,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Africa/social impact"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "84 registered"
+      ],
+      "time": [
+        8.0,
+        "6 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Bridge The Gap Hacks",
+    "url": "https://sq-hacks.devpost.com/"
+  },
+  "devpost:30657": {
+    "deadline": "2026-11-21T18:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-22",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 29.9,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        9.9,
+        "$300 prize"
+      ],
+      "registrations": [
+        5.0,
+        "103 registered"
+      ],
+      "time": [
+        15.0,
+        "7 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Teens Hack Houston Hackathon",
+    "url": "https://tripleh.devpost.com/"
+  },
+  "devpost:30740": {
+    "deadline": "2027-01-15T07:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2027-01-15",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 18.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "911 registered"
+      ],
+      "time": [
+        5.0,
+        "61 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Code for Humanity",
+    "url": "https://code-for-humanity.devpost.com/"
+  },
+  "devpost:30764": {
+    "deadline": "2027-01-14T07:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2027-01-14",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 33.0,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Dev tools"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "438 registered"
+      ],
+      "time": [
+        10.0,
+        "60 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Syntax Summit",
+    "url": "https://syntax-summit.devpost.com/"
+  },
+  "devpost:30789": {
+    "deadline": "2026-12-21T00:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-21",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 36.6,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        15.6,
+        "$7,800 prize"
+      ],
+      "registrations": [
+        1.0,
+        "1,165 registered"
+      ],
+      "time": [
+        10.0,
+        "36 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Arbiter Hacks V1",
+    "url": "https://arbiter-hacks-v1.devpost.com/"
+  },
+  "devpost:31083": {
+    "deadline": "2026-12-15T14:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-15",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 44.8,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        18.8,
+        "$50,000 prize"
+      ],
+      "registrations": [
+        1.0,
+        "1,665 registered"
+      ],
+      "time": [
+        15.0,
+        "30 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "QNX Global Hackathon",
+    "url": "https://qnx.devpost.com/"
+  },
+  "devpost:31108": {
+    "deadline": "2027-01-02T12:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2027-01-02",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 13.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "344 registered"
+      ],
+      "time": [
+        10.0,
+        "48 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "InnovArt 2027: Art and Technology Hack Day",
+    "url": "https://innovart2027.devpost.com/"
+  },
+  "devpost:31480": {
+    "deadline": "2026-12-18T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-18",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 23.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "prize €1,000 (not USD, not scored)"
+      ],
+      "registrations": [
+        3.0,
+        "406 registered"
+      ],
+      "time": [
+        10.0,
+        "33 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "AI Agents for Founders Challenge — HETIC 2026",
+    "url": "https://ai-agents-founders-hetic-26.devpost.com/"
+  },
+  "devpost:31504": {
+    "deadline": "2026-11-25T18:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-26",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 30.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "31 registered"
+      ],
+      "time": [
+        15.0,
+        "11 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Code For DFW",
+    "url": "https://code-for-dfw.devpost.com/"
+  },
+  "devpost:31549": {
+    "deadline": "2026-11-22T10:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-22",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 51.6,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Backend"
+      ],
+      "prize": [
+        11.6,
+        "$800 prize"
+      ],
+      "registrations": [
+        5.0,
+        "32 registered"
+      ],
+      "time": [
+        15.0,
+        "7 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "KUK VIRTUAL HACKATHON",
+    "url": "https://kuk-virtual-hackathon.devpost.com/"
+  },
+  "devpost:31572": {
+    "deadline": "2026-12-22T15:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-22",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 41.3,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        20.3,
+        "$120,000 prize"
+      ],
+      "registrations": [
+        1.0,
+        "3,579 registered"
+      ],
+      "time": [
+        10.0,
+        "37 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Codegeist 2026: Build with context. Ship with confidence.",
+    "url": "https://codegeist2026.devpost.com/"
+  },
+  "devpost:31642": {
+    "deadline": "2026-12-11T15:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-11",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 47.2,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        19.2,
+        "$64,000 prize"
+      ],
+      "registrations": [
+        3.0,
+        "389 registered"
+      ],
+      "time": [
+        15.0,
+        "26 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "AWS MSP AI Hackathon",
+    "url": "https://aws-agentic-msp.devpost.com/"
+  },
+  "devpost:31644": {
+    "deadline": "2026-12-08T21:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-09",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 34.2,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        18.2,
+        "$35,000 prize"
+      ],
+      "registrations": [
+        1.0,
+        "1,284 registered"
+      ],
+      "time": [
+        15.0,
+        "24 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Reddit’s Game of the Day Hackathon",
+    "url": "https://redditgameofday2026.devpost.com/"
+  },
+  "devpost:31667": {
+    "deadline": "2026-12-04T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-04",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 45.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        20.0,
+        "$100,000 prize"
+      ],
+      "registrations": [
+        0.0,
+        "14,248 registered"
+      ],
+      "time": [
+        15.0,
+        "19 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Kiroween 2026",
+    "url": "https://kiroween.devpost.com/"
+  },
+  "devpost:31682": {
+    "deadline": "2026-11-30T03:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-30",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 39.9,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        9.9,
+        "$300 prize"
+      ],
+      "registrations": [
+        5.0,
+        "197 registered"
+      ],
+      "time": [
+        15.0,
+        "15 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "CSC Winter Sparkathon",
+    "url": "https://csc-winter-sparkathon.devpost.com/"
+  },
+  "devpost:31733": {
+    "deadline": "2026-11-30T23:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-01",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 20.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "49 registered"
+      ],
+      "time": [
+        15.0,
+        "16 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
+    "url": "https://305veteransnov2026.devpost.com/"
+  },
+  "devpost:31737": {
+    "deadline": "2026-11-25T13:15:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-25",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 28.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "prize ₹ 500,000 (not USD, not scored)"
+      ],
+      "registrations": [
+        3.0,
+        "216 registered"
+      ],
+      "time": [
+        15.0,
+        "10 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "HackWithAditya",
+    "url": "https://hackwithaditya.devpost.com/"
+  },
+  "devpost:31773": {
+    "deadline": "2026-12-04T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-04",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 27.9,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        9.9,
+        "$300 prize"
+      ],
+      "registrations": [
+        3.0,
+        "570 registered"
+      ],
+      "time": [
+        15.0,
+        "19 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "LaunchPad Hacks (Judges + Sponsors Needed)",
+    "url": "https://launchpad-hacks.devpost.com/"
+  },
+  "devpost:31787": {
+    "deadline": "2026-12-26T00:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-26",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 23.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "prize $CAD 1,050 (not USD, not scored)"
+      ],
+      "registrations": [
+        3.0,
+        "413 registered"
+      ],
+      "time": [
+        10.0,
+        "41 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "GenHacks",
+    "url": "https://genhacks-open.devpost.com/"
+  },
+  "devpost:31789": {
+    "deadline": "2026-11-21T23:59:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-22",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 28.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "528 registered"
+      ],
+      "time": [
+        15.0,
+        "7 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "STEM2Connect AI Hackathon",
+    "url": "https://stem2connect-online-hackathon.devpost.com/"
+  },
+  "devpost:31794": {
+    "deadline": "2026-12-01T20:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-02",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 39.2,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        9.2,
+        "$200 prize"
+      ],
+      "registrations": [
+        5.0,
+        "118 registered"
+      ],
+      "time": [
+        15.0,
+        "17 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Code for Change",
+    "url": "https://code-for-change-global.devpost.com/"
+  },
+  "devpost:31795": {
+    "deadline": "2026-11-20T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-20",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 30.4,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        9.4,
+        "$225 prize"
+      ],
+      "registrations": [
+        3.0,
+        "275 registered"
+      ],
+      "time": [
+        8.0,
+        "5 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "AccessED Hacks",
+    "url": "https://accessed-hacks.devpost.com/"
+  },
+  "devpost:31796": {
+    "deadline": "2026-11-22T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-22",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 37.8,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        9.8,
+        "$280 prize"
+      ],
+      "registrations": [
+        3.0,
+        "467 registered"
+      ],
+      "time": [
+        15.0,
+        "7 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "SafeSpace Hacks",
+    "url": "https://safespace-hacks.devpost.com/"
+  },
+  "devpost:31798": {
+    "deadline": "2026-11-24T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-24",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 18.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "232 registered"
+      ],
+      "time": [
+        15.0,
+        "9 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Taskforge",
+    "url": "https://taskforge.devpost.com/"
+  },
+  "devpost:31808": {
+    "deadline": "2026-11-30T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-30",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 43.9,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        17.9,
+        "$30,000 prize"
+      ],
+      "registrations": [
+        1.0,
+        "2,440 registered"
+      ],
+      "time": [
+        15.0,
+        "15 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "#BuildHybridAI 2026",
+    "url": "https://firebasehybridaihackathon.devpost.com/"
+  },
+  "devpost:31873": {
+    "deadline": "2027-02-01T00:00:00-05:00",
+    "end_date": "2027-02-01",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "reason": "eligibility says \"high school students only\"",
+    "status": "dropped",
+    "title": "HackOut! 2027",
+    "url": "https://hackout-branchout.devpost.com/"
+  },
+  "devpost:31905": {
+    "deadline": "2027-02-15T13:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2027-02-15",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 30.0,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Backend"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "8 registered"
+      ],
+      "time": [
+        5.0,
+        "92 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Teens in AI Global Challenge 2027",
+    "url": "https://teens-in-ai.devpost.com/"
+  },
+  "devpost:31907": {
+    "deadline": "2026-11-27T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-11-27",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 28.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "578 registered"
+      ],
+      "time": [
+        15.0,
+        "12 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Build Your First AI App",
+    "url": "https://build-your-first-ai-app.devpost.com/"
+  },
+  "devpost:31960": {
+    "deadline": "2026-12-02T02:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-02",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 40.0,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Africa/social impact"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "148 registered"
+      ],
+      "time": [
+        15.0,
+        "17 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "ML Empowerment Build Challenge 4.0",
+    "url": "https://ml-build-challenge-4.devpost.com/"
+  },
+  "devpost:31972": {
+    "deadline": "2026-12-07T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-07",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 42.6,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        14.6,
+        "$4,500 prize"
+      ],
+      "registrations": [
+        3.0,
+        "264 registered"
+      ],
+      "time": [
+        15.0,
+        "22 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "SLAY HACKS",
+    "url": "https://slayy-hacks.devpost.com/"
+  },
+  "devpost:31973": {
+    "deadline": "2026-12-07T16:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-07",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 45.6,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        17.6,
+        "$25,000 prize"
+      ],
+      "registrations": [
+        3.0,
+        "691 registered"
+      ],
+      "time": [
+        15.0,
+        "22 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Deck the Pixels",
+    "url": "https://deckthepixels.devpost.com/"
+  },
+  "devpost:31974": {
+    "deadline": "2027-06-26T12:00:00-04:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2027-06-26",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 10.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "17 registered"
+      ],
+      "time": [
+        5.0,
+        "223 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "PhysTech 2027: Physical Activity and Technology Hack Day",
+    "url": "https://phystech2027.devpost.com/"
+  },
+  "devpost:31993": {
+    "deadline": "2026-11-30T23:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-01",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 20.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "64 registered"
+      ],
+      "time": [
+        15.0,
+        "16 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "IdeaLab Hacks",
+    "url": "https://idealab-hacks.devpost.com/"
+  },
+  "devpost:31994": {
+    "deadline": "2026-12-10T23:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-11",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 38.7,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        8.7,
+        "$150 prize"
+      ],
+      "registrations": [
+        5.0,
+        "143 registered"
+      ],
+      "time": [
+        15.0,
+        "26 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "AI OpenBuild",
+    "url": "https://ai-openbuild.devpost.com/"
+  },
+  "devpost:32009": {
+    "deadline": "2026-12-04T23:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-05",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 30.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "137 registered"
+      ],
+      "time": [
+        15.0,
+        "20 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+    "url": "https://ai-for-medicine.devpost.com/"
+  },
+  "devpost:32017": {
+    "deadline": "2026-12-24T06:30:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-24",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 15.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "prize ₹ 0 (not USD, not scored)"
+      ],
+      "registrations": [
+        5.0,
+        "56 registered"
+      ],
+      "time": [
+        10.0,
+        "39 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Inceptrix 3.0",
+    "url": "https://inceptrix-hackathon.devpost.com/"
+  },
+  "devpost:32024": {
+    "deadline": "2026-12-11T21:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-12",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 38.0,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Backend"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "376 registered"
+      ],
+      "time": [
+        15.0,
+        "27 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Relate by Neo4j Hackathon",
+    "url": "https://relate.devpost.com/"
+  },
+  "devpost:32026": {
+    "deadline": "2027-01-11T11:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2027-01-11",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 49.0,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Africa/social impact"
+      ],
+      "prize": [
+        16.0,
+        "$10,000 prize"
+      ],
+      "registrations": [
+        3.0,
+        "709 registered"
+      ],
+      "time": [
+        10.0,
+        "57 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Open Agentic Web Challenge",
+    "url": "https://cognizant-agenticweb.devpost.com/"
+  },
+  "devpost:32060": {
+    "deadline": "2026-12-15T23:45:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-16",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 25.8,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        10.8,
+        "$500 prize"
+      ],
+      "registrations": [
+        5.0,
+        "131 registered"
+      ],
+      "time": [
+        10.0,
+        "31 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Silicon Valley Buildathon",
+    "url": "https://silicon-valley-buildathon.devpost.com/"
+  },
+  "devpost:32061": {
+    "deadline": "2026-12-10T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-10",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 20.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "13 registered"
+      ],
+      "time": [
+        15.0,
+        "25 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Peninsula Innovation Hackathon",
+    "url": "https://peninsula-innovation-hackathon.devpost.com/"
+  },
+  "devpost:32072": {
+    "deadline": "2026-12-13T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-13",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 30.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "29 registered"
+      ],
+      "time": [
+        15.0,
+        "28 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "InnovateHER Hackathon: Girls Who Code",
+    "url": "https://hackathon-girls-who-code.devpost.com/"
+  },
+  "devpost:32079": {
+    "deadline": "2026-12-07T17:00:00-05:00",
+    "digested_at": "2026-11-15T19:14:25+00:00",
+    "end_date": "2026-12-07",
+    "first_seen": "2026-11-15T19:14:25+00:00",
+    "score": 41.6,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        13.6,
+        "$2,500 prize"
+      ],
+      "registrations": [
+        3.0,
+        "226 registered"
+      ],
+      "time": [
+        15.0,
+        "22 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Learn AR with SPECS",
+    "url": "https://learn-specs.devpost.com/"
+  }
+}
