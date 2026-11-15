@@ -1,0 +1,62 @@
+name: Daily digest
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 07:00 Lagos
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Send even if nothing is new
+        type: boolean
+        default: false
+
+concurrency:
+  group: hackhunt-daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python -m unittest
+
+      - name: Run hackhunt
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" = "true" ]; then
+            python -m hackhunt run --force
+          else
+            python -m hackhunt run
+          fi
+
+      # The email has already gone out by this point. If this push fails, the next
+      # run won't know about today's digest and may resend some of it. That's fine.
+      - name: Commit state if it changed
+        run: |
+          git add state/seen.json
+          if git diff --cached --quiet; then
+            echo "state unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update seen hackathons"
+          git pull --rebase
+          git push
