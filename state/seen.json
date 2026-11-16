@@ -447,6 +447,34 @@
     "title": "CSC Winter Sparkathon",
     "url": "https://csc-winter-sparkathon.devpost.com/"
   },
+  "devpost:31683": {
+    "deadline": "2026-11-25T10:30:00-05:00",
+    "digested_at": "2026-11-16T08:10:08+00:00",
+    "end_date": "2026-11-25",
+    "first_seen": "2026-11-16T08:10:08+00:00",
+    "score": 20.0,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        0.0,
+        "prize ₹ 0 (not USD, not scored)"
+      ],
+      "registrations": [
+        5.0,
+        "92 registered"
+      ],
+      "time": [
+        15.0,
+        "9 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "BuildyourOwnWebsite",
+    "url": "https://buildyourownwebsite.devpost.com/"
+  },
   "devpost:31733": {
     "deadline": "2026-11-30T23:45:00-05:00",
     "digested_at": "2026-11-15T19:14:25+00:00",
@@ -670,6 +698,34 @@
     "status": "digested",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/"
+  },
+  "devpost:31797": {
+    "deadline": "2026-12-10T17:00:00-05:00",
+    "digested_at": "2026-11-16T08:10:08+00:00",
+    "end_date": "2026-12-10",
+    "first_seen": "2026-11-16T08:10:08+00:00",
+    "score": 36.4,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        8.4,
+        "$125 prize"
+      ],
+      "registrations": [
+        3.0,
+        "234 registered"
+      ],
+      "time": [
+        15.0,
+        "24 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Green Shift Hacks",
+    "url": "https://green-shift-hacks.devpost.com/"
   },
   "devpost:31798": {
     "deadline": "2026-11-24T17:00:00-05:00",
@@ -1183,5 +1239,33 @@
     "status": "digested",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/"
+  },
+  "devpost:32141": {
+    "deadline": "2027-01-25T17:00:00-05:00",
+    "digested_at": "2026-11-16T08:10:08+00:00",
+    "end_date": "2027-01-25",
+    "first_seen": "2026-11-16T08:10:08+00:00",
+    "score": 20.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "1 registered"
+      ],
+      "time": [
+        5.0,
+        "70 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "unihacks",
+    "url": "https://unihacks-youth.devpost.com/"
   }
 }
