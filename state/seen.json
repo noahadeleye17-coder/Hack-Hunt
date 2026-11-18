@@ -54,6 +54,7 @@
     },
     "status": "digested",
     "title": "Bridge The Gap Hacks",
+    "urgent_flagged_at": "2026-11-18T14:55:42+00:00",
     "url": "https://sq-hacks.devpost.com/"
   },
   "devpost:30657": {
@@ -307,6 +308,34 @@
     "status": "digested",
     "title": "KUK VIRTUAL HACKATHON",
     "url": "https://kuk-virtual-hackathon.devpost.com/"
+  },
+  "devpost:31571": {
+    "deadline": "2027-01-12T14:00:00-05:00",
+    "digested_at": "2026-11-18T14:55:42+00:00",
+    "end_date": "2027-01-12",
+    "first_seen": "2026-11-18T14:55:42+00:00",
+    "score": 50.6,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Backend"
+      ],
+      "prize": [
+        17.6,
+        "$25,000 prize"
+      ],
+      "registrations": [
+        3.0,
+        "230 registered"
+      ],
+      "time": [
+        10.0,
+        "55 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
+    "url": "https://cloud9.devpost.com/"
   },
   "devpost:31572": {
     "deadline": "2026-12-22T15:00:00-05:00",
@@ -793,6 +822,15 @@
     "status": "dropped",
     "title": "HackOut! 2027",
     "url": "https://hackout-branchout.devpost.com/"
+  },
+  "devpost:31886": {
+    "deadline": "2027-02-01T15:00:00-05:00",
+    "end_date": "2027-02-01",
+    "first_seen": "2026-11-18T14:55:42+00:00",
+    "reason": "Nigeria isn't on the allowed countries list",
+    "status": "dropped",
+    "title": "Build with AI - Pico Space Program",
+    "url": "https://pico-space-program.devpost.com/"
   },
   "devpost:31905": {
     "deadline": "2027-02-15T13:45:00-05:00",
