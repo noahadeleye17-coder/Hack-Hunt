@@ -83,6 +83,7 @@
     },
     "status": "digested",
     "title": "Teens Hack Houston Hackathon",
+    "urgent_flagged_at": "2026-11-19T15:00:38+00:00",
     "url": "https://tripleh.devpost.com/"
   },
   "devpost:30740": {
@@ -307,6 +308,7 @@
     },
     "status": "digested",
     "title": "KUK VIRTUAL HACKATHON",
+    "urgent_flagged_at": "2026-11-19T15:00:38+00:00",
     "url": "https://kuk-virtual-hackathon.devpost.com/"
   },
   "devpost:31571": {
@@ -589,6 +591,34 @@
     "title": "LaunchPad Hacks (Judges + Sponsors Needed)",
     "url": "https://launchpad-hacks.devpost.com/"
   },
+  "devpost:31775": {
+    "deadline": "2026-11-24T10:00:00-05:00",
+    "digested_at": "2026-11-19T15:00:38+00:00",
+    "end_date": "2026-11-24",
+    "first_seen": "2026-11-19T15:00:38+00:00",
+    "score": 39.8,
+    "score_breakdown": {
+      "interests": [
+        20.0,
+        "matches AI/agents, Africa/social impact"
+      ],
+      "prize": [
+        6.8,
+        "$50 prize"
+      ],
+      "registrations": [
+        5.0,
+        "115 registered"
+      ],
+      "time": [
+        8.0,
+        "5 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "OBSCURA: Satellite AI Research Challenge",
+    "url": "https://obscura.devpost.com/"
+  },
   "devpost:31787": {
     "deadline": "2026-12-26T00:00:00-05:00",
     "digested_at": "2026-11-15T19:14:25+00:00",
@@ -643,6 +673,7 @@
     },
     "status": "digested",
     "title": "STEM2Connect AI Hackathon",
+    "urgent_flagged_at": "2026-11-19T15:00:38+00:00",
     "url": "https://stem2connect-online-hackathon.devpost.com/"
   },
   "devpost:31794": {
@@ -728,6 +759,7 @@
     },
     "status": "digested",
     "title": "SafeSpace Hacks",
+    "urgent_flagged_at": "2026-11-19T15:00:38+00:00",
     "url": "https://safespace-hacks.devpost.com/"
   },
   "devpost:31797": {
