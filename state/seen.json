@@ -1339,5 +1339,33 @@
     "status": "digested",
     "title": "unihacks",
     "url": "https://unihacks-youth.devpost.com/"
+  },
+  "devpost:32155": {
+    "deadline": "2026-11-27T21:00:00-05:00",
+    "digested_at": "2026-11-20T14:43:55+00:00",
+    "end_date": "2026-11-28",
+    "first_seen": "2026-11-20T14:43:55+00:00",
+    "score": 30.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Fintech"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "26 registered"
+      ],
+      "time": [
+        15.0,
+        "8 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "SMBP FinHack",
+    "url": "https://smbp-finhack.devpost.com/"
   }
 }
