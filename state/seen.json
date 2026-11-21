@@ -617,6 +617,7 @@
     },
     "status": "digested",
     "title": "OBSCURA: Satellite AI Research Challenge",
+    "urgent_flagged_at": "2026-11-21T13:59:04+00:00",
     "url": "https://obscura.devpost.com/"
   },
   "devpost:31787": {
@@ -816,6 +817,7 @@
     },
     "status": "digested",
     "title": "Taskforge",
+    "urgent_flagged_at": "2026-11-21T13:59:04+00:00",
     "url": "https://taskforge.devpost.com/"
   },
   "devpost:31808": {
@@ -845,6 +847,34 @@
     "status": "digested",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/"
+  },
+  "devpost:31826": {
+    "deadline": "2026-11-28T18:00:00-05:00",
+    "digested_at": "2026-11-21T13:59:04+00:00",
+    "end_date": "2026-11-29",
+    "first_seen": "2026-11-21T13:59:04+00:00",
+    "score": 28.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        3.0,
+        "379 registered"
+      ],
+      "time": [
+        15.0,
+        "8 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Global AI Builder’s Challenge",
+    "url": "https://global-ai-builders-challenge.devpost.com/"
   },
   "devpost:31873": {
     "deadline": "2027-02-01T00:00:00-05:00",
