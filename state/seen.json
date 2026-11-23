@@ -280,6 +280,7 @@
     },
     "status": "digested",
     "title": "Code For DFW",
+    "urgent_flagged_at": "2026-11-23T17:01:43+00:00",
     "url": "https://code-for-dfw.devpost.com/"
   },
   "devpost:31549": {
@@ -1399,5 +1400,61 @@
     "status": "digested",
     "title": "SMBP FinHack",
     "url": "https://smbp-finhack.devpost.com/"
+  },
+  "devpost:32215": {
+    "deadline": "2026-11-30T23:45:00-05:00",
+    "digested_at": "2026-11-23T17:01:43+00:00",
+    "end_date": "2026-12-01",
+    "first_seen": "2026-11-23T17:01:43+00:00",
+    "score": 36.2,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches Africa/social impact"
+      ],
+      "prize": [
+        6.2,
+        "$35 prize"
+      ],
+      "registrations": [
+        5.0,
+        "16 registered"
+      ],
+      "time": [
+        15.0,
+        "8 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
+    "url": "https://hackathon-draft-32215.devpost.com/"
+  },
+  "devpost:32218": {
+    "deadline": "2026-12-20T02:45:00-05:00",
+    "digested_at": "2026-11-23T17:01:43+00:00",
+    "end_date": "2026-12-20",
+    "first_seen": "2026-11-23T17:01:43+00:00",
+    "score": 26.8,
+    "score_breakdown": {
+      "interests": [
+        0.0,
+        "no interest match"
+      ],
+      "prize": [
+        6.8,
+        "$50 prize"
+      ],
+      "registrations": [
+        5.0,
+        "5 registered"
+      ],
+      "time": [
+        15.0,
+        "27 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Global Perceive Drawing Challenge",
+    "url": "https://perceive-drawing-challenge.devpost.com/"
   }
 }
