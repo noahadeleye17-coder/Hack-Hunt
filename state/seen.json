@@ -877,6 +877,7 @@
     },
     "status": "digested",
     "title": "Global AI Builder’s Challenge",
+    "urgent_flagged_at": "2026-11-26T16:10:02+00:00",
     "url": "https://global-ai-builders-challenge.devpost.com/"
   },
   "devpost:31873": {
@@ -1458,5 +1459,33 @@
     "status": "digested",
     "title": "Global Perceive Drawing Challenge",
     "url": "https://perceive-drawing-challenge.devpost.com/"
+  },
+  "devpost:32246": {
+    "deadline": "2026-12-03T00:00:00-05:00",
+    "digested_at": "2026-11-26T16:10:02+00:00",
+    "end_date": "2026-12-03",
+    "first_seen": "2026-11-26T16:10:02+00:00",
+    "score": 30.0,
+    "score_breakdown": {
+      "interests": [
+        10.0,
+        "matches AI/agents"
+      ],
+      "prize": [
+        0.0,
+        "no cash prize"
+      ],
+      "registrations": [
+        5.0,
+        "2 registered"
+      ],
+      "time": [
+        15.0,
+        "7 days left"
+      ]
+    },
+    "status": "digested",
+    "title": "Fanshawe Hacks",
+    "url": "https://fanshawe-hacks.devpost.com/"
   }
 }
