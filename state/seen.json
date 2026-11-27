@@ -478,6 +478,7 @@
     },
     "status": "digested",
     "title": "CSC Winter Sparkathon",
+    "urgent_flagged_at": "2026-11-27T15:57:03+00:00",
     "url": "https://csc-winter-sparkathon.devpost.com/"
   },
   "devpost:31683": {
@@ -849,6 +850,7 @@
     },
     "status": "digested",
     "title": "#BuildHybridAI 2026",
+    "urgent_flagged_at": "2026-11-27T15:57:03+00:00",
     "url": "https://firebasehybridaihackathon.devpost.com/"
   },
   "devpost:31826": {
